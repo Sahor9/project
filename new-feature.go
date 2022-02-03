@@ -1,1 +1,2 @@
-new-feature content
+content from git-kraken
+
